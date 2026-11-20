@@ -1,0 +1,22 @@
+# 忽略 Python 缓存
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# PyInstaller 打包产物
+build/
+dist/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+
+# 下载的音频文件（版权内容不入库）
+下载/
+*.mp3
